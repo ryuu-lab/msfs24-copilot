@@ -1,0 +1,5 @@
+openai
+python-dotenv
+keyboard
+pyttsx3
+SimConnect
