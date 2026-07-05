@@ -1,0 +1,25 @@
+{
+  "key_bindings": {
+    "GEAR_TOGGLE": "g",
+    "FLAPS_INCR": "b",
+    "FLAPS_DECR": "v",
+    "AP_MASTER": "z",
+    "PARKING_BRAKES": "space",
+    "TOGGLE_LANDING_LIGHTS": "ctrl+shift+l",
+    "TOGGLE_STROBES": "ctrl+shift+s",
+    "TOGGLE_TAXI_LIGHTS": "ctrl+shift+t"
+  },
+  "callouts": {
+    "80_knots": true,
+    "v1": true,
+    "v1_speed": 119,
+    "rotate": true,
+    "rotate_speed": 130,
+    "positive_rate": true,
+    "gear_up_call": true
+  },
+  "voice_enabled": true,
+  "voice_rate": 151,
+  "action_delay": 2.0,
+  "ui_always_on_top": true
+}
